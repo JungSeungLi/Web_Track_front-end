@@ -1,0 +1,20 @@
+a:link { color: #595959; text-decoration: none; font-weight:bold;}
+a:visited { color: #595959; text-decoration: none; font-weight:bold;}
+a:hover { color: #595959; text-decoration: none; font-weight:bold;}
+
+body { font-family: 'Malgun Gothic'; overflow: auto;}
+header { width: auto; height: auto; text-align: center; overflow: auto; margin: auto; position: relative; z-index: 2;}
+#header { width: 1250px; height: auto; overflow-x:hidden; overflow-y:auto; margin: auto; text-align: center;}
+#logo {  margin-top: 60px; float: left; }
+
+#hed { overflow: auto; margin: auto;}
+
+#sub_menu { float: left; margin-left: 680px; font-size: 13px; margin-top: 50px;}
+#sub_menu ul { list-style-type: none; }
+#sub_menu li { display: inline; margin-right: 10px;}
+
+#menusize{ overflow-x:hidden; overflow-y:hidden; width: 1080px; height: auto; float: left;}
+
+#main_menu { float: right;  font-size: 13px; margin-top: 25px; font-size: 17px; background-color:  rgba(0,0,0,0); height: 235px; }
+#main_menu ul { list-style-type: none; margin-right: 70px;}
+#main_menu li { display: inline; margin-right: 20px; vertical-align: middle; text-align: center; position: relative; padding-left: 25px;}

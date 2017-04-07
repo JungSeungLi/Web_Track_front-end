@@ -1,0 +1,48 @@
+#footer {
+    overflow: auto;
+    margin: 0px;
+    background-color: #50402D;
+    height: 200px;
+}
+
+.footer_imf {
+    width: 1000px;
+    background: #50402D;
+    margin: 0px auto;
+    overflow: auto;
+    margin-top: 40px;
+}
+
+.left_img {
+    float: left;
+}
+
+.right_content {
+    float: left;
+    width: 700px;
+    margin-left: 80px;
+    color: white;
+}
+
+.sub_content {
+    overflow: auto;
+}
+
+.sub_content ul {
+    list-style: none;
+}
+
+.sub_content li {
+    float: left;
+    margin-right: 30px;
+}
+
+.sub_content_center {
+    overflow: auto;
+    margin-top: 20px;
+}
+
+.copy_right_imf {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
