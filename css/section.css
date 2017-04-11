@@ -651,8 +651,15 @@ select {
 #jb_content {
     float: left;
     margin-top: 100px;
-    width: 600px;
+    width: 850px;
     margin-left: 100px;
+    text-align: center;
+}
+
+#jb_content > p 
+{
+    font-size: 25px;
+    font-weight: bold;
 }
 
 #jb_sidebar-right {
